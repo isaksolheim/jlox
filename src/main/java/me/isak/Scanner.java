@@ -1,4 +1,4 @@
-package org.example;
+package me.isak;
 
 import java.util.ArrayList;
 import java.util.HashMap;

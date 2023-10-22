@@ -1,4 +1,4 @@
-package org.example;
+package me.isak;
 
 class Token {
     final TokenType type;

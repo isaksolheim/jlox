@@ -1,4 +1,4 @@
-package org.example;
+package me.isak;
 
 public enum TokenType {
     // Single-character tokens.
