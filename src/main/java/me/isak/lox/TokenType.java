@@ -1,4 +1,4 @@
-package me.isak;
+package me.isak.lox;
 
 public enum TokenType {
     // Single-character tokens.

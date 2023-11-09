@@ -1,4 +1,4 @@
-package me.isak;
+package me.isak.lox;
 
 class Token {
     final TokenType type;

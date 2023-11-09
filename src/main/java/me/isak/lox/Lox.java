@@ -1,4 +1,4 @@
-package me.isak;
+package me.isak.lox;
 
 import java.io.BufferedReader;
 import java.io.IOException;
